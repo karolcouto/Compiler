@@ -8,5 +8,5 @@ Implementation of a compiler as a practical exercise to understand concepts such
 ## Technologies
 - C++
 
-## Author
+## Authors
 Karoline Couto, Livia de Paula.
